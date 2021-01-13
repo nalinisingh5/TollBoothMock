@@ -1,0 +1,12 @@
+
+?
+java:S2386
+"Make this member "protected".(ˆö’Úþÿÿÿÿ8‡É«Ùï.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ð•êãÿÿÿÿÿ8„†œ×ï.
+O
+java:S1444
+"-Make this "public static tollMap" field final(ˆö’Úþÿÿÿÿ8‡é°Ùï.
+u
+java:S1104
+"SMake tollMap a static final constant or non-public and provide accessors if needed.(ˆö’Úþÿÿÿÿ8‡é°Ùï.

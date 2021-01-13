@@ -1,0 +1,9 @@
+
+‰
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8Âð Ùï.
+S
+java:S11442"6Remove this unused private "givePasstoVehicle" method.(ÔçãÊ8±ÄïÙï.
+0
+java:S1220""Move this file to a named package.
+]	java:S125""<This block of commented-out lines of code should be removed.(ÄËÑ²þÿÿÿÿ8±ÄïÙï.
+X	java:S125'"<This block of commented-out lines of code should be removed.(¼¶˜þ8½¹èÙï.

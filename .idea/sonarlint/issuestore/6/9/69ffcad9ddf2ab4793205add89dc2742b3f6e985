@@ -1,0 +1,12 @@
+
+Q
+java:S2209"5Change this instance-reference to a static reference.(¶—”8å¨–Ùï.
+x
+java:S2159"VRemove this call to "equals"; comparisons between unrelated types always return false.(¯ÊÚıúÿÿÿÿ8å¨–Ùï.
+f
+java:S3358"DExtract this nested ternary operation into an independent statement.(¯ÊÚıúÿÿÿÿ8§âÙï.
+s
+java:S2159"VRemove this call to "equals"; comparisons between unrelated types always return false.(ç±‘8å¨–Ùï.
+R
+java:S2440"5Remove this instantiation of "VehiclePassRepository".(ÊŸ‹›8å¨–Ùï.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ÓÕ‹Ùï.

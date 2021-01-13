@@ -1,0 +1,9 @@
+
+Z
+java:S1444	"8Make this "public static vehicleTollPassMap" field final(ÕåŸûÿÿÿÿ8ê¨íØï.
+€
+java:S1104	"^Make vehicleTollPassMap a static final constant or non-public and provide accessors if needed.(ÕåŸûÿÿÿÿ8ê¨íØï.
+?
+java:S2386	"Make this member "protected".(ÕåŸûÿÿÿÿ8³ê¨Ùï.
+W
+java:S1118":Add a private constructor to hide the implicit public one.(š˜ı8ê¨íØï.
